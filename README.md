@@ -8,4 +8,5 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS 3" title="CSS 3" src="https://github.com/Jambient/Jambient/blob/main/icons/CSS.png" height="42"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" title="JS" src="https://github.com/Jambient/Jambient/blob/main/icons/JS.png" height="42"></a>
 <a href="https://cplusplus.com/"><img alt="C++" title="C++" src="https://github.com/Jambient/Jambient/blob/main/icons/C++.png" height="42"></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" title="C#" src="https://github.com/Jambient/Jambient/blob/main/icons/C#.png" height="42"></a>
 <br><br>
